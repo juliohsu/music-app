@@ -1,6 +1,6 @@
 # Music App
 
-This is an example application showing how to use the [OpenAI Realtime API](https://platform.openai.com/docs/guides/realtime) with [WebRTC](https://platform.openai.com/docs/guides/realtime-webrtc). The application implements a shopping cart interface with voice interaction capabilities.
+This is an example application showing how to use the [OpenAI Realtime API](https://platform.openai.com/docs/guides/realtime) with [WebRTC](https://platform.openai.com/docs/guides/realtime-webrtc). The application implements a music app interface with voice interaction capabilities.
 
 ## Features
 
