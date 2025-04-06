@@ -13,7 +13,7 @@ const MusicApp = () => {
 
     useEffect(() => {
         if (typeof window !== 'undefined' && !audioRef.current) {
-            audioRef.current = new Audio(sound);
+            audioRef.current = new Audio('music_app\public\data\bonjovi.mp3');
 
             audioRef.current.addEventListener('timeupdate', () => {
                 setCurrentTime(audioRef.current.currentTime);
